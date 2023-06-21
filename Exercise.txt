@@ -1,0 +1,7 @@
+Part 1:
+
+1. git checkout -b
+2. fast forward works when there are no orignal commits on the master branch
+3. git checkout
+4. git checkout -D
+5. When you try to merge to changes into a new branch that conflict because there are 2 identical changes.
